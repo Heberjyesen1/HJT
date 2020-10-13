@@ -1,5 +1,5 @@
 apt update && apt upgrade
 apt install git
-git clone https://github.com/SantriPasuruan/installerv3
+git clone 
 cd installerv3
 sh installerv3
